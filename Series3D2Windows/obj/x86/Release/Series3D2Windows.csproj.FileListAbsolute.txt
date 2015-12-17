@@ -1,0 +1,23 @@
+C:\Users\R.Lal\Desktop\testiing\Series3D2Windows\bin\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\testiing\Series3D2Windows\bin\x86\Release\Series3D2Windows.pdb
+C:\Users\R.Lal\Desktop\testiing\Series3D2Windows\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\R.Lal\Desktop\testiing\Series3D2Windows\obj\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\testiing\Series3D2Windows\obj\x86\Release\Series3D2Windows.pdb
+C:\Users\R.Lal\Desktop\Tracking testiing\testiing - animated building\Series3D2Windows\bin\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\Tracking testiing\testiing - animated building\Series3D2Windows\bin\x86\Release\Series3D2Windows.pdb
+C:\Users\R.Lal\Desktop\Tracking testiing\testiing - animated building\Series3D2Windows\obj\x86\Release\Series3D2Windows.csprojResolveAssemblyReference.cache
+C:\Users\R.Lal\Desktop\Tracking testiing\testiing - animated building\Series3D2Windows\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\R.Lal\Desktop\Tracking testiing\testiing - animated building\Series3D2Windows\obj\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\Tracking testiing\testiing - animated building\Series3D2Windows\obj\x86\Release\Series3D2Windows.pdb
+C:\Users\R.Lal\Desktop\testiing - animated building\Series3D2Windows\bin\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\testiing - animated building\Series3D2Windows\bin\x86\Release\Series3D2Windows.pdb
+C:\Users\R.Lal\Desktop\testiing - animated building\Series3D2Windows\obj\x86\Release\Series3D2Windows.csprojResolveAssemblyReference.cache
+C:\Users\R.Lal\Desktop\testiing - animated building\Series3D2Windows\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\R.Lal\Desktop\testiing - animated building\Series3D2Windows\obj\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\testiing - animated building\Series3D2Windows\obj\x86\Release\Series3D2Windows.pdb
+C:\Users\R.Lal\Desktop\testiing - animated  TWO building\Series3D2Windows\bin\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\testiing - animated  TWO building\Series3D2Windows\bin\x86\Release\Series3D2Windows.pdb
+C:\Users\R.Lal\Desktop\testiing - animated  TWO building\Series3D2Windows\obj\x86\Release\Series3D2Windows.csprojResolveAssemblyReference.cache
+C:\Users\R.Lal\Desktop\testiing - animated  TWO building\Series3D2Windows\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\R.Lal\Desktop\testiing - animated  TWO building\Series3D2Windows\obj\x86\Release\Series3D2Windows.dll
+C:\Users\R.Lal\Desktop\testiing - animated  TWO building\Series3D2Windows\obj\x86\Release\Series3D2Windows.pdb
